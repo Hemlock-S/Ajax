@@ -6,3 +6,10 @@ fetch -> jei url theke data read korte chaitesi
 
 synchronous --> line by line read kore program execute kora. There is dependency for execution; serial will not be break.
 asynchronous -> queue te program thakbe and nirdisto time pore execute hbe
+
+
+https://restcountries.com/v2/name/peru
+Here,
+https --> secure protocol
+restcountries.com --> domain name
+v2/name/peru --> resources/asset
